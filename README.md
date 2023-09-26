@@ -2,3 +2,4 @@
 poc to work with branch and remote repo
 ## branches
 - min_branch01
+- min_branch02
